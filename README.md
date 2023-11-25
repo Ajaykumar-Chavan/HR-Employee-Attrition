@@ -9,4 +9,5 @@ This first page provides an overview of all the four dashboards I created. The s
 
 ![Turnover Analysis 2](https://github.com/Ajaykumar-Chavan/HR-Employee-Attrition/assets/151377995/7b423b5b-9c84-43e7-933f-479b15e21efe)
 
-![Turnover Analysis 2](https://github.com/Ajaykumar-Chavan/HR-Employee-Attrition/assets/151377995/5a33b900-8e01-435b-95cc-cb7f81eaae2a)
+![Employee Wellness](https://github.com/Ajaykumar-Chavan/HR-Employee-Attrition/assets/151377995/bfd30865-f2cd-4b37-9bd7-5166e7781f7a)
+
