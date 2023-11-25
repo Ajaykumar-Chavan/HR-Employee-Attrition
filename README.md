@@ -2,6 +2,9 @@
 This first page provides an overview of all the four dashboards I created. The second page includes the demographic insights, the third page focuses on turnover analysis 1, the fourth page on turnover analysis 2, and the final page is dedicated to employee wellness.
 
 
+
+
+
 ![HR](https://github.com/Ajaykumar-Chavan/HR-Employee-Attrition/assets/151377995/49ba6be9-030f-4635-8bf1-7966148325b8)
 
 
